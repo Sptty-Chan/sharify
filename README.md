@@ -18,6 +18,8 @@ $ termux-setup-storage
 
 $ cd $HOME
 
+$ rm -rf sharify
+
 $ pkg upgrage && pkg update
 
 $ pkg install python
